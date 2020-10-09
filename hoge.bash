@@ -1,4 +1,5 @@
 #!/bin/bash
+#written by Riku Yokoo
 
 echo hoge
 echo hoge
